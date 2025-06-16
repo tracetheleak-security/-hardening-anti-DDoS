@@ -126,6 +126,13 @@ Set domain with proxy enabled (orange on Cloudflare)
 
 ## script installation of ddos_hardening.sh
 
-## nano ddos_hardening.sh
-## chmod +x ddos_hardening.sh 
-## chmod +x ddos_hardening.sh
+```
+nano ddos_hardening.sh
+```
+
+```
+chmod +x ddos_hardening.sh
+```
+```
+sudo ./ddos_hardening.sh
+```
